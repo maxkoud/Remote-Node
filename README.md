@@ -1,4 +1,4 @@
 # Remote-Node
 
-[ ] Find Server's provider
+[ ] Find Server's provider  
 [ ] Setup new VDS server
